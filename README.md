@@ -59,8 +59,3 @@ Une seule permission corrompue ou mal configurée peut compromettre l'intégrali
 - **Dossiers :** `755`
 - **Fichiers standards :** `644`
 - **`wp-config.php` :** `640` *(Optimisé pour être sécurisé et compatible avec 99% des hébergeurs)*
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
