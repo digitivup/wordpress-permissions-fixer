@@ -4,7 +4,7 @@
  * Ultra-optimized, memory-safe standalone script to reset WordPress permissions.
  *
  * USAGE: Upload to your WordPress root directory, access via browser ONCE, then delete.
- * GitHub: https://github.com/your-username/your-repo
+ * GitHub: https://github.com/digitivup/wordpress-permissions-fixer/
  */
 
 declare(strict_types=1);
